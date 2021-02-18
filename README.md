@@ -37,3 +37,4 @@ Modular designs are always a life saver if you encounter an error during your pr
 
 Step 6: Manufacturing Your PCBs
 After doing a great job on design, We believe that your PCB design deserves the best. You can send your beautiful PCB designs to JLCPCB for the best feasable manufacturing option available on our planet.
+You can reach this article from this link : https://www.instructables.com/How-to-Design-a-Maker-type-PCB-Stack-in-Eagle/
