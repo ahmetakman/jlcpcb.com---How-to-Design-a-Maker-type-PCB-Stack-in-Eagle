@@ -1,5 +1,5 @@
 # jlcpcb.com---How-to-Design-a-Maker-type-PCB-Stack-in-Eagle
-https://content.instructables.com/ORIG/F15/D4ZM/KL9G6GKR/F15D4ZMKL9G6GKR.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=f3372aea48f45ba7f50a0a28bec02dda
+
 In this text, we would provide necessary instructions for designing PCB stacks in a simple sense. After designing your PCB stack, you can easily materialize your designs using JLCPCB's super-simple interface. Thanks to JLCPCB, our precious readers and dear makers can acquire high quality PCBs and pay less than others.
 
 Makers generally do not prefer designing PCBs by a modular approach. But in iterative design processes, in which designers gradually change their designs during the prototyping phase, it could lower the price and benefit the maker by avoiding the manufacturing of the whole PCB multiple times.
