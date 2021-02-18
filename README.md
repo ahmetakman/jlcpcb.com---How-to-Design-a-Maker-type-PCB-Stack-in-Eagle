@@ -20,15 +20,12 @@ After completing your schematic design, click "Switch to Board" button on Eagle 
 
 
 Step 3: Exporting Your PCB Design As DXF
-Exporting Your PCB Design As DXF
-Exporting Your PCB Design As DXF
+
 DXF format is used for creating a template of our PCB. This allows us to create multiple layers of PCBs with same fundamental holes; Therefore, we will be able to create a pcb stack with those layers.
 
 
 Step 4: Importing DXF and Designing PCB Layers
-Importing DXF and Designing PCB Layers
-Importing DXF and Designing PCB Layers
-Importing DXF and Designing PCB Layers3 More Images
+
 After exporting your fundamental design as DXF, we should import it in order to use it as a template . Then, we will create our layers from schematic step using that template, so we would easily recognize the mutual connections and create a completely compatible PCB stack. Now, our pcb stack is as good as ready.
 
 Step 5: Why Should You Choose to Design Modular PCBs
